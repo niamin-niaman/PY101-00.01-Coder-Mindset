@@ -107,6 +107,19 @@ layout: center
 layout: center
 ---
 
+# Coder เปรียบเหมือนพ่อครัว 👨‍🍳
+
+ลองนึกภาพโลกของอาหารดูบ้างครับ...
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<!-- Placeholder for image: พ่อครัว หรือ GIF เกี่ยวกับการปรุงอาหาร -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpxem90cWNoMThhM2IxNnd1NHNiNDk5dGY4bWt2a2hhZHcydjJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M6bJf9VBmrN1qTtPyL/giphy.gif" alt="Chef Cooking" style="max-width: 50%; height: auto;">
+</div>
+
+---
+layout: center
+---
+
 # 🍳 โลกของอาหาร
 
 <div class="grid grid-cols-2 gap-8">
@@ -152,6 +165,19 @@ layout: center
 </v-click>
 
 </div>
+</div>
+
+---
+layout: center
+---
+
+# ดังนั้น Coder คืออะไร? 👨‍💻
+
+มาดูโลกของโปรแกรมกันต่อครับ...
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<!-- Placeholder for image: Coder/Programmer หรือ GIF เกี่ยวกับการเขียนโปรแกรม -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzk1eDJjZDFzbGIxaDdybXZwYXdtZXAzbDF5cXQ0YTE4ZGd4ZDlmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLpclx5lofmqnEswm0/giphy.gif" alt="Coder Programming" style="max-width: 50%; height: auto;">
 </div>
 
 ---
@@ -245,4 +271,65 @@ layout: center
 ไม่ว่าจะเป็นเพลงที่สร้างความสุข หรือโปรแกรมที่ช่วยอำนวยความสะดวก  
 สิ่งสำคัญคือ **การออกแบบและการคิด** ของผู้สร้างสรรค์นั่นเอง
 
-</v-click> 
+</v-click>
+
+---
+layout: center
+---
+
+# 🌟 โปรแกรมที่เปลี่ยนโลก
+
+ตัวอย่างโปรแกรมในโลกที่เปลี่ยนโลก
+
+---
+layout: center
+---
+
+# 🚗 Tesla Autopilot
+
+รถยนต์ที่ขับเองได้อัตโนมัติ  
+ด้วยโปรแกรมที่ชาญฉลาด สามารถวิเคราะห์ถนน ป้าย และสิ่งกีดขวางได้เอง
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/320px-Tesla_Motors.svg.png" alt="Tesla Logo" style="max-width: 200px; height: auto;">
+</div>
+
+---
+layout: center
+---
+
+# 📱 Facebook
+
+เชื่อมโยงผู้คนทั่วโลก  
+โปรแกรมที่ทำให้เราสามารถแชร์เรื่องราว รูปภาพ และติดต่อกับเพื่อนๆ ได้ทุกที่ทุกเวลา
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/320px-Facebook_Logo_%282019%29.png" alt="Facebook Logo" style="max-width: 200px; height: auto;">
+</div>
+
+---
+layout: center
+---
+
+# 🤖 ChatGPT
+
+คุยกับ AI ที่ฉลาดมาก  
+โปรแกรมที่สามารถตอบคำถาม ช่วยเขียน และแนะนำสิ่งต่างๆ ได้เหมือนมีผู้ช่วยส่วนตัว
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/320px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" style="max-width: 180px; height: auto;">
+</div>
+
+---
+layout: center
+---
+
+# 🤔 แล้วคุณล่ะ? อยากสร้างโปรแกรมอะไร?
+
+ถึงเวลาแล้วที่จะคิดว่า...  
+คุณอยากแก้ปัญหาอะไร หรือทำอะไรให้ชีวิตง่ายขึ้น?
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
+<!-- Placeholder for meme image -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFxNHJidzg4a2Npd2h4eGY3eDVya2QwdTYxbmd2YTE1a2FmZHZ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBK7b4vHYyb0n70zJq/giphy.gif" alt="Thinking Meme" style="max-width: 400px; height: auto;">
+</div> 
