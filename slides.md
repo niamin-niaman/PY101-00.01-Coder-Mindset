@@ -332,4 +332,8 @@ layout: center
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
 <!-- Placeholder for meme image -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFxNHJidzg4a2Npd2h4eGY3eDVya2QwdTYxbmd2YTE1a2FmZHZ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBK7b4vHYyb0n70zJq/giphy.gif" alt="Thinking Meme" style="max-width: 400px; height: auto;">
-</div> 
+</div>
+
+<!--
+kjlkา่ส
+-->
